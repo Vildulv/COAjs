@@ -1,0 +1,19 @@
+.main{
+    overflow: hidden;
+    margin: auto;
+    width: 900px;
+}
+.main .left .generate{
+    margin-top: 50%;
+}
+.main .left{
+    width: 400px;
+    float: left;
+    height: 600px;
+}
+.main .right{
+    float: left;
+}
+.main .right #canvas{
+
+}
